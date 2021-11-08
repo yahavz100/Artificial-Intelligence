@@ -14,7 +14,7 @@ There is a list of commands(commands.txt) initiating different mazes with differ
 Defined Corners-Problem search problem: State, Goal and Successors.
 
 Implemented Heuristic function(admissible and consistent) for Corners-Problem and Food Search-Problem.<br/>
-Function calculates manhattan distances from current position to closest goal in each state.
+Function calculates Manhattan distances from current position to closest goal in each state.
 
 ![alt text](Ex1/Extra/Capture1.jpg)
 
