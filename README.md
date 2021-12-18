@@ -1,5 +1,6 @@
 # Artificial-Intelligence
 - Task 1 - Pacman - Search Problems.
+- Task 2 - Pacman - Multi agents, minimax and alpha-beta pruning.
 
 ## Task 1 - Pacman
 Demonstrating how to solve problems by searching as part of Artificial Intelligence course at Bar Ilan University.<br/>
@@ -18,7 +19,12 @@ Function calculates Manhattan distances from current position to closest goal in
 
 ![alt text](Ex1/Extra/pac-astrar-seq.gif)
 
-![alt text](Ex1/Extra/Capture1.jpg)
-
 ![alt text](Ex1/Extra/Capture.jpg)
 
+## Task 2 - Pacman multi agents
+Implemented number of agents - minimax, alpha-beta pruning etc.
+1. Improving the Reflex agent using game state information.
+2. Adverserial search agent using Minimax.
+3. Implement alpha-beta pruning agent in order to explore more efficiently the minimax tree.
+
+![alt text](Ex2/Extra/pac-alphabeta-seq.gif)
