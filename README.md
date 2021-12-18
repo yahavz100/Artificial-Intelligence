@@ -16,6 +16,8 @@ Defined Corners-Problem search problem: State, Goal and Successors.
 Implemented Heuristic function(admissible and consistent) for Corners-Problem and Food Search-Problem.<br/>
 Function calculates Manhattan distances from current position to closest goal in each state.
 
+![alt text](Ex1/Extra/pac-astrar-seq.gif)
+
 ![alt text](Ex1/Extra/Capture1.jpg)
 
 ![alt text](Ex1/Extra/Capture.jpg)
