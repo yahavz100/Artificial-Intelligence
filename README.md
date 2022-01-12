@@ -1,6 +1,7 @@
 # Artificial-Intelligence
 - Task 1 - Pacman - Search Problems.
 - Task 2 - Pacman - Multi agents, minimax and alpha-beta pruning.
+- Task 3 - Movie recommendation system, analyze data, collaborative filtering and precision measuring.
 
 ## Task 1 - Pacman
 Demonstrating how to solve problems by searching as part of Artificial Intelligence course at Bar Ilan University.<br/>
@@ -28,3 +29,17 @@ Implemented number of agents - minimax, alpha-beta pruning etc.
 3. Implement alpha-beta pruning agent in order to explore more efficiently the minimax tree.
 
 ![alt text](Ex2/Extra/pac-alphabeta-seq.gif)
+
+## Task 3 - Movie recommendation system
+The system is built from 3 parts:
+1. Analyzing the data.
+2. Creating a recommendation based on collaborative filtering: user based, item based.
+3. Evaluate the system precision using: P@10, ARHA, RMSE.
+
+![alt text](Ex3/Extra/capture1.jpg)
+
+The prediction matrix is built using cosine similarity metric.
+![alt text](Ex3/Extra/capture2.jpg) <br/>
+![alt text](Ex3/Extra/capture3.jpg) <br/>
+![alt text](Ex3/Extra/capture4.jpg) <br/>
+![alt text](Ex3/Extra/capture5.jpg) <br/>
